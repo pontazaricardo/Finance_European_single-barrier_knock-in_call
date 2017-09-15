@@ -14,7 +14,7 @@ For this project, we have:
 1. **Inputs:** *S* (stock price), *X* (strike price), *H* (barrier, smaller than *S*), *t* (years), *s* (volatility in %), *r* (interest rate in %), *q* (dividend yield in %), and *n* (number of periods).
 2. **Output:** Price *c1* from the tree program, price *c2* from the Black-Scholes model and the relative error.
 
-## USAGE
+## Usage
 In MatLab, just run the given file.
 
 ## EXAMPLE
