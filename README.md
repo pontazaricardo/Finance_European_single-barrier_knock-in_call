@@ -4,7 +4,7 @@ This is a CRR binomial tree program that prices European single-barrier knock-in
 
 ![demo](/images/pics/demo.gif)
 
-## NOTES
+## Notes
 
 Let *c1* be the price from the tree program and *c2* be the price from the Black-Scholes model. The relative error will be 100[(*c1* -*c2*)/*c2*] (%)
 
