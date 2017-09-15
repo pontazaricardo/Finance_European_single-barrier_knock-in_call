@@ -23,6 +23,8 @@ In MatLab, just run the given file.
 	2. The price given by the Black-Scholes model is *c2*=5.3844.
 	3. The relative error is -0.0083%.
 	
+![demo](/images/pics/demo2.gif)
+	
 2. Suppose *S* = 95, *X* = 100, *H* = 90, *t* = 1 (year), *s* = 25 (%), *r* = 15 (%), *q* = 5 (%), and *n* = 193:
 	1. The price given by the tree is *c1*=4.1270.
 	2. The price given by the Black-Scholes model is *c2*=5.3844.
